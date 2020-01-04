@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>img\escenario.png</Source>
+      <Name>img\escenario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\escenario.xnb</Output>
+      <Time>2019-06-02T22:18:15.9141903-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\escenario1.png</Source>
+      <Name>img\escenario1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\escenario1.xnb</Output>
+      <Time>2019-06-02T22:18:15.8921884-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\game_over.png</Source>
+      <Name>img\game_over</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\game_over.xnb</Output>
+      <Time>2019-06-02T22:18:38.1720194-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\instrucciones.png</Source>
+      <Name>img\instrucciones</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\instrucciones.xnb</Output>
+      <Time>2019-06-02T22:18:38.1940173-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\plataforma2.png</Source>
+      <Name>img\plataforma2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\plataforma2.xnb</Output>
+      <Time>2019-05-31T17:25:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\plataforma3.png</Source>
+      <Name>img\plataforma3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\plataforma3.xnb</Output>
+      <Time>2019-05-31T17:25:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\plataforma4.png</Source>
+      <Name>img\plataforma4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\plataforma4.xnb</Output>
+      <Time>2019-05-31T17:25:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\plataforma5.png</Source>
+      <Name>img\plataforma5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\plataforma5.xnb</Output>
+      <Time>2019-06-02T22:19:03.9161513-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\plataforma6.png</Source>
+      <Name>img\plataforma6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\plataforma6.xnb</Output>
+      <Time>2019-06-02T22:19:03.9251382-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\plataforma7.png</Source>
+      <Name>img\plataforma7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\plataforma7.xnb</Output>
+      <Time>2019-06-02T22:19:03.8601434-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\menu.png</Source>
+      <Name>img\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\menu.xnb</Output>
+      <Time>2019-06-02T22:19:11.4623214-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\boton_instrucciones.png</Source>
+      <Name>img\boton_instrucciones</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\boton_instrucciones.xnb</Output>
+      <Time>2019-06-02T22:19:24.0613748-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\boton_play.png</Source>
+      <Name>img\boton_play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\boton_play.xnb</Output>
+      <Time>2019-06-02T22:19:32.2083048-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\serpiente_derecha.png</Source>
+      <Name>img\serpiente_derecha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\serpiente_derecha.xnb</Output>
+      <Time>2019-06-02T22:20:01.1622554-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\serpiente_izquierda.png</Source>
+      <Name>img\serpiente_izquierda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\serpiente_izquierda.xnb</Output>
+      <Time>2019-06-02T22:20:01.1802593-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\tuna.png</Source>
+      <Name>img\tuna</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\tuna.xnb</Output>
+      <Time>2019-06-02T22:20:11.9430019-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\zanahoria.png</Source>
+      <Name>img\zanahoria</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\zanahoria.xnb</Output>
+      <Time>2019-06-02T22:20:11.9250011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\cactus.png</Source>
+      <Name>img\cactus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\cactus.xnb</Output>
+      <Time>2019-06-02T22:20:30.8298023-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\carro.png</Source>
+      <Name>img\carro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\carro.xnb</Output>
+      <Time>2019-06-02T22:20:30.8157999-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\entrada.png</Source>
+      <Name>img\entrada</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\entrada.xnb</Output>
+      <Time>2019-06-02T22:20:40.5025299-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\piramide.png</Source>
+      <Name>img\piramide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\piramide.xnb</Output>
+      <Time>2019-06-02T22:20:40.5235299-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\plataforma1.png</Source>
+      <Name>img\plataforma1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\plataforma1.xnb</Output>
+      <Time>2019-05-31T17:25:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\conejo_derecha.png</Source>
+      <Name>img\conejo_derecha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\conejo_derecha.xnb</Output>
+      <Time>2019-06-02T22:51:00.8437739-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\conejo_izquierda.png</Source>
+      <Name>img\conejo_izquierda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\conejo_izquierda.xnb</Output>
+      <Time>2019-06-02T22:51:00.8557736-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\plataforma8.png</Source>
+      <Name>img\plataforma8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\plataforma8.xnb</Output>
+      <Time>2019-06-02T22:20:53.7682064-05:00</Time>
+    </Item>
+    <Item>
+      <Source>img\vida.png</Source>
+      <Name>img\vida</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\img\vida.xnb</Output>
+      <Time>2019-06-04T11:35:21.4679712-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <RootDirectory>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\eloir\OneDrive\Trabajos\Juego Carmen\conejo\conejo\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>c:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T12:08:00-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T12:08:42-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T12:08:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T12:07:44-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-06-02T01:46:41.0846364-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
